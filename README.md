@@ -10,7 +10,7 @@
 - 💡 Always open to brainstorming and contributing to impactful ideas.
 
 ### 📫 Let's Connect:
-- 💌 Reach me at [your email/website](mailto:jayantiamruta@gmail.com).
+- 💌 Reach me at [Email](mailto:jayantiamruta@gmail.com).
 - 🔗 Find me on [LinkedIn](https://linkedin.com/in/amruta-jayanti).
 
 ### 😄 Pronouns:
