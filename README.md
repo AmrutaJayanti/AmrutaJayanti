@@ -1,21 +1,22 @@
+
 # 👋 Hey there! I'm @AmrutaJayanti  
 
 ### 👀 A Little About Me:
-- 🚀 Currently exploring the exciting world of **Blockchain** and its potential to transform industries.  
-- 🌱 I’m also curious about **Quantitative Finance** and eager to learn how numbers drive financial markets.  
-- 🧠 Passionate about solving real-world problems with cutting-edge tech.
+- 🚀 Currently **learning Blockchain** and exploring its potential to transform industries.  
+- 🌱 A passionate **MERN developer** with a knack for building user-centric applications.  
+- 🧠 Proud to have achieved **71st rank in GSSoC'24**, showcasing my dedication to open-source contributions.  
 
 ### 💞️ Let's Collaborate:
-- 🤝 Interested in working on **blockchain projects**, **smart contracts**, or anything that pushes the boundaries of decentralized systems.  
+- 🤝 Interested in working on **blockchain projects**, **smart contracts**, or any innovative tech that drives impact.  
 - 💡 Always open to brainstorming and contributing to impactful ideas.
 
 ### 📫 Let's Connect:
-- 💌 Reach me at [Email](mailto:jayantiamruta@gmail.com).
-- 🔗 Find me on [LinkedIn](https://linkedin.com/in/amruta-jayanti).
+- 💌 Reach me at [Email](mailto:jayantiamruta@gmail.com).  
+- 🔗 Find me on [LinkedIn](https://linkedin.com/in/amruta-jayanti).  
 
 ### 😄 Pronouns:
-- She/Her (or add your pronouns).
+- She/Her  
 
 ### ⚡ Fun Fact:
-- I believe the future of finance is decentralized, and I’m excited to explore how **quant models** can enhance it.  
-- I also enjoy simplifying complex tech concepts for anyone curious enough to ask. 😊
+- I believe decentralized technologies are the future, and I’m eager to be part of this transformative journey.  
+- I also enjoy simplifying complex tech concepts for anyone curious enough to ask. 😊  
